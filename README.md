@@ -1,6 +1,7 @@
 # 🗒️ Lab 19 — Room, MVVM, Repository, ViewModel, LiveData et RecyclerView
 
 **Cours** : Programmation Mobile — Android avec Java
+---
 **Auteur** : MADILI Kenza
 ---
 
